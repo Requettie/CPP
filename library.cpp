@@ -4,4 +4,8 @@
 
 void hello() {
     std::cout << "Hello, World!" << std::endl;
+
+    std::cout << "This is an update to GitHub repository." << std::endl;
+
+    std::cout << "I am testing CLion" << std:endl;
 }
