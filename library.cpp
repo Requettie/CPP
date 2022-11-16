@@ -10,4 +10,7 @@ void hello() {
     std::cout << "I am testing CLion" << std::endl;
 
     std::cout << "I am testing GitHub Desktop, GitKraken to increase productivity." << std::endl;
+
+    std::cout << "aslkdjljaskdasdjl;sa" <<std:endl;
+
 }
