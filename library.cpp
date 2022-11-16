@@ -7,5 +7,7 @@ void hello() {
 
     std::cout << "This is an update to GitHub repository." << std::endl;
 
-    std::cout << "I am testing CLion" << std:endl;
+    std::cout << "I am testing CLion" << std::endl;
+
+    std::cout << "I am testing GitHub Desktop, GitKraken to increase productivity." << std::endl;
 }
